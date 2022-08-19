@@ -8,7 +8,8 @@
         "comments": "on",
         "strings": "on",
         "other": "on"
-    }
+    },
+    "editor.cursorSurroundingLines": 0
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {

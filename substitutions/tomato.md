@@ -1,0 +1,6 @@
+- tamarind paste
+- mango (unripe)
+- pumpkin
+- peppers
+- yogurt
+- olives
