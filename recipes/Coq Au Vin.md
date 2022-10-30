@@ -1,10 +1,10 @@
 ---
 type: recipe
 keywords:
-tags:
+tags: chicken
 plan:
 prep:
-cook:
+cook: 25 min (pressure cooker), 2.5 hours
 rest:
 ---
 

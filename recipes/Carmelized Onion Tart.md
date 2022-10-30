@@ -4,7 +4,7 @@ keywords:
 tags:
 plan:
 prep:
-cook:
+cook: 15-20 min.
 rest:
 ---
 
