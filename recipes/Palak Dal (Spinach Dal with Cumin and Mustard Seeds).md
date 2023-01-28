@@ -14,14 +14,17 @@ rest:
 
 **Steps**
 
-4.5 cups water
-dahl (lentils without the seed husks)
-turmeric
-cook lentils until just breaking down
-whisk to puree
-add spinach and salt
-top with Tadka/Tarka/Chhonk
-serve with Basmahti rice
+- 4.5 cups water
+- dahl (lentils without the seed husks)
+- turmeric
+
+**Steps**
+
+1. cook lentils until just breaking down
+1. whisk to puree
+1. add spinach and salt
+1. top with Tadka/Tarka/Chhonk
+1. serve with Basmahti rice
 
 Tadka: melt ghee
 add mustard seeds and cumin seeds and cook until sizzle/pop

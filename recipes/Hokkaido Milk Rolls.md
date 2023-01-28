@@ -20,14 +20,17 @@ rest:
 
 **Yudane**:
 
-It is a 1:1 mix of flour and liquid. Instead of being cooked the flour is simply mixed with boiling liquid and then left to cool down before being used. Yudane can be made withall the flour but generally, it contains 10% – 25% of the total flour.
+It is a 1:1 mix of flour and liquid. Instead of being cooked the flour is simply mixed with boiling liquid and then left to cool down before being used. Yudane can be made with all the flour but generally, it contains 10% – 25% of the total flour.
+
+**Yeast Mixture**
+
+- 1/2 cup (120g) whole milk (90-95F)
+- 1 Tbsp (9g) active dry yeast (instant works as well)
 
 **Bread Dough**:
 
 - 2.5 cups (320g) bread flour
-- 1 Tbsp (9g) active dry yeast (instant works as well)
 - 3/4 tsp (3g) fine sea salt
-- 1/2 cup (120g) whole milk
 - 1/4 cup (56g) granulated sugar
 - 3 Tbsp (42g) unsalted butter, softened
 - 1 whole egg, room temperature

@@ -8,7 +8,7 @@ cook:
 rest:
 ---
 
-# Cheesy Potato Soup with Peppered Scallions
+# Cheesy Potato [[Potato Soup]] with Peppered Scallions
 
 [Source](https://www.youtube.com/watch?v=_Cp6YUmKTJQ)
 

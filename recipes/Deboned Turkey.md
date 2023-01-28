@@ -52,3 +52,5 @@ DAY OF THE FEAST
 Roast the turkey at 400ºF/200ºC, basting occasionally, until the white meat reaches 160ºF/71ºC and the dark meat 185ºF/85ºC (the dark meat will prob be done first). If you want darker color, jack up the heat toward the end. Mine took about 90 min. Rest before slicing.
 
 Reheat the demi-glacé. If you want greater sauce volume, hold it at a very low simmer and gradually stir in a lot of butter — up to 1:1 butter and demi-glacé. If you don't let it boil, the emulsion should hold. Taste and adjust seasoning. Inform everybody this sauce is way stronger than gravy, so they don't need much.
+
+If the skin wrinkles as it rests (~15 min), put it back in 450F oven for ~5 min to re-shrink the skin. It should stay smooth until served.

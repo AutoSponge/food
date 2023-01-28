@@ -27,7 +27,7 @@ rest:
 **Preparation**:
 
 - stir together 2 quarts water and first 7 ingredients in large stockpot
-- heat over medium-high heat, stirring occasionally, until sale and sugar dissolve
+- heat over medium-high heat, stirring occasionally, until salt and sugar dissolve
 - let stand 1 hour to cool
 - place chicken in brine and chill 1 to 3 hours
 - preheat grill to 350 to 400 degrees (medium-high) heat

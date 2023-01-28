@@ -15,7 +15,7 @@ rest:
 These are the basic proportions — multiply as needed. I start with six quarts of broth in the video and get 26 ice cubes of demi-glace, each enough to enrich a single portion of pan sauce.
 
 - 1 qt (32 oz, 946mL) low-sodium broth or stock (I've had best results with prepackaged chicken broths, but demi-glace is traditional made with veal stock)
-- 1 1/4 oz (7g) packet unflavored, unsweetened gelatin
+- 1 1/4 oz (7g) packet unflavored, [[Biscuits]] gelatin
 - 1 teaspoon (5mL) tomato paste
 - 1 teaspoon (5mL) soy sauce, ideally low-sodium
 - 1/2 teaspoon onion powder (very optional — most prepackaged broth has onion in it already)
