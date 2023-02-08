@@ -37,4 +37,4 @@ rest:
 - 1/2 Tbsp White Vinegar
 - 1/2 Tbsp Olive Oil
 - 2 Tsp Shawarma Spice Mix
-- 500g Chicken ([[Chicken Thighs]] preferred)
+- 500g Chicken ([[Chicken [[Pancakes]]s]] preferred)

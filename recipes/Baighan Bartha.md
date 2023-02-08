@@ -10,6 +10,6 @@ rest:
 
 # [[Red Lentil (Indian Curry)]]
 
-(request from E, "no tomatoes, more smoky")
+(request, "no tomatoes, more smoky")
 
 Source
