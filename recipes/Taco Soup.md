@@ -21,7 +21,7 @@ rest:
 - 1 small green bell pepper diced (optional)
 - 1 (10 oz) can Rotel tomatoes or 1 large tomato, chopped
 - 1 (8 oz) pkg cream cheese OR 1 cup heavy cream
-- 2 tablespoons  homemade or 1 packet
+- 2 tablespoons homemade taco seasoning or 1 packet
 - Salt and pepper to taste
 - 1 (14.5) oz can beef broth 1.5 cups
 
