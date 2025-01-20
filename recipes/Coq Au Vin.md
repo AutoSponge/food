@@ -20,15 +20,15 @@ rest:
 - 6 garlic cloves, minced
 - 1 can of tomato paste (6 oz)
 - 4 tbsp AP flour
-- 2 tbsp chicken base
+- 2 tbsp Better than Boullion chicken base (or condensed homemade stock)
 - 4 cups red wine
 - 2 bay leaves
 - 2 sprigs of thyme
-- 1 1/2 cups pearl onions
-- 8 oz. cremini mushrooms (halved if large, about 4 cups)
+- (optional, just use another onion) 1 1/2 cups pearl onions
+- 8 oz. cremini or baby bella mushrooms (halved if large, about 4 cups)
 - pinch of sugar
 - EVOO
-- chopped parsley for garnish
+- (optional) chopped parsley for garnish
 
 **Steps**
 
