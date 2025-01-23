@@ -16,35 +16,35 @@ rest:
 
 Makes about 6 quarts of sauce, enough for about 60 portions of pasta (freeze it!)
 
-olive oil
-1 lb carrots
-1 large red onion
-1 lb chicken livers
-3 lbs ground meat (I like to use beef and lamb)
-6 oz can tomato paste
-3 28 oz cans crushed tomatoes
-1 bottle white wine
-Liquid chicken bouillon (or a stock cube)
-1 tbsp dried oregano
-1 tbsp dried parsley
-1 tbsp dried basil
-1 tbsp dried thyme
-1 tbsp garlic powder
-1/4 cup balsamic vinegar
-pepper
-salt
+- olive oil
+- 1 lb carrots
+- 1 large red onion
+- 1 lb chicken livers
+- 3 lbs ground meat (I like to use beef and lamb)
+- 6 oz can tomato paste
+- 3 28 oz cans crushed tomatoes
+- 1 bottle white wine
+- Liquid chicken bouillon (or a stock cube)
+- 1 tbsp dried oregano
+- 1 tbsp dried parsley
+- 1 tbsp dried basil
+- 1 tbsp dried thyme
+- 1 tbsp garlic powder
+- 1/4 cup balsamic vinegar
+- pepper
+- salt
 
-Peel and finely chop the carrots and onion. In a large pot (at least 7 quarts), fry the vegetables in olive oil on high heat until soft, stirring constantly. Dump them out into a bowl or plate.
+1. Peel and finely chop the carrots and onion. In a large pot (at least 7 quarts), fry the vegetables in olive oil on high heat until soft, stirring constantly. Dump them out into a bowl or plate.
 
-Finely chop the livers until almost pureed.
+1. Finely chop the livers until almost pureed.
 
-In the big pot, fry the ground meat in olive oil on high heat, stirring and scraping constantly with a wooden spoon to keep meatballs from forming. Cook until most of the water evaporates and the pan starts to crackle. Put in the livers and the tomato paste and stir to combine.
+1. In the big pot, fry the ground meat in olive oil on high heat, stirring and scraping constantly with a wooden spoon to keep meatballs from forming. Cook until most of the water evaporates and the pan starts to crackle. Put in the livers and the tomato paste and stir to combine.
 
-When the brown stuff on the bottom of the pot looks like it's about to burn, pour in the wine and scrape to release everything on the bottom. Stir in a big spoonful of the bouillon. Reduce heat to a simmer and cook for two hours, stirring occasionally to make sure the bottom doesn't stick and burn.
+1. When the brown stuff on the bottom of the pot looks like it's about to burn, pour in the wine and scrape to release everything on the bottom. Stir in a big spoonful of the bouillon. Reduce heat to a simmer and cook for two hours, stirring occasionally to make sure the bottom doesn't stick and burn.
 
-After two hours, season the sauce with the herbs and vinegar. Simmer an additional hour. When it's the desired thickness, taste and adjust seasoning with salt and pepper. 
+1. After two hours, season the sauce with the herbs and vinegar. Simmer an additional hour. When it's the desired thickness, taste and adjust seasoning with salt and pepper. 
 
-Use, or freeze in ice cube trays, or both. After thawing and reheating, add a few more drops of balsamic vinegar.
+1. Use, or freeze in ice cube trays, or both. After thawing and reheating, add a few more drops of balsamic vinegar.
 
 [Source](https://youtu.be/d8Gq5SyZI34?si=CN0kmai47w0zSBSo)
 
